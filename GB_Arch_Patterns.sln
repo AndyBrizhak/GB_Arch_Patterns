@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex112", "F:\Educational mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex121", "F:\Educational materials\IT\Geek Brains\Geek Brains ArchPatternsC#\Patterns.all\Ex121\Ex121.csproj", "{CFF23FB2-FDE6-4104-85A8-5A3E45D87DBA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex122", "F:\Educational materials\IT\Geek Brains\04.Fourth quarter study\Geek Brains ArchPatternsC#\Patterns.all\Ex122\Ex122.csproj", "{DF14AACE-E975-4931-BF9C-B50F2AE4A97A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{CFF23FB2-FDE6-4104-85A8-5A3E45D87DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF23FB2-FDE6-4104-85A8-5A3E45D87DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF23FB2-FDE6-4104-85A8-5A3E45D87DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF14AACE-E975-4931-BF9C-B50F2AE4A97A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF14AACE-E975-4931-BF9C-B50F2AE4A97A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF14AACE-E975-4931-BF9C-B50F2AE4A97A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF14AACE-E975-4931-BF9C-B50F2AE4A97A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
